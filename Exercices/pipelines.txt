@@ -1,0 +1,16 @@
+Exercice 1 :
+Au préalable, mis tous les fichiers .ann dans les sous-dossiers par mois dans le même sous-dossier : celui de leur année.
+
+1.a. ls *.ann | wc -l
+
+1.b. cat *.ann | grep Location | wc -l
+
+Exercice 2 :
+
+2.a. cat *.ann | grep Location | sort (nombre de fois que Location apparaît)
+cat *.ann | grep Location | cut -f3 | sort (qui donne juste la colonne 3 qui indique les différents lieux)
+cat *.ann | grep Location | cut -f3 | sort | uniq -c (qui compte les occurrences)
+cat *.ann | grep Location | cut -f3 | sort | uniq -ic (+ ignore les cases)
+cat *.ann | grep Location | cut -f3 | sort | uniq -ic | sort -n | tail -15 (tri numérique du plus petit au plus grand en partant de la fin)
+
+2.b. cat 2017_04*.ann | grep Location | cut -f3 | sort | uniq -ic | sort -n | tail -15
