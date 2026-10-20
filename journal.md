@@ -51,3 +51,4 @@ je pense que c'était aprce que j'avais oublie git add avant de commit
 # Séance 3
 
 ## exercices git
+Cette ligne doit rester après correction.
