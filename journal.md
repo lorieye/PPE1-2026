@@ -1,9 +1,3 @@
-Ecrire quelques lignes bidons, je sais pas, je vais juste écrire ce qui me passe dans la tête
-j'aime pas trop nano parce que je trouve pas les manières de sauvegarder très instrinctifs
-peut-être que je devrais tester vim, mais apparemment c'est plus poussé donc ça fait peur
-en tous cas, j'aime bien le format .md vu que je le connais
-même si je le connaissais pas, il est pluôt simple
-
 # PPE1
 
 # ==> 30/09
@@ -50,7 +44,4 @@ même si je le connaissais pas, il est pluôt simple
 
 
 ---
-# Séance 3
 
-## exercices git
-Cette ligne doit rester après correction
