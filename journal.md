@@ -48,3 +48,4 @@
 
 ## exercices git
 Cette ligne doit rester après correction.
+1. donc là j'ai un fichier qui s'appelle oups.
