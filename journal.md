@@ -1,7 +1,3 @@
-ajout de quelques lignes bidons.
-je l'ai déjà fait mais je dois recommencé pcq ça n'avait pas marché la première fois
-je pense que c'était aprce que j'avais oublie git add avant de commit
-
 # PPE1
 
 # ==> 30/09
