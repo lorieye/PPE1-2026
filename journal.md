@@ -56,3 +56,27 @@ correction d'erreur (github)
 
 je vais mettre cette ligne de côté
 >>>>>>> Stashed changes
+---
+# ==> 20/10
+
+## Ce que j'ai fait
++ Je mets à jour mon journal après avoir fait l'exercice "git, un peu plus loin". On verra après pour l'autre. Je sais pas si je suis censé gardé les lignes par rapport à l'exercice, donc voilà.
+	+ C'était pas trop complexe, et pas très long.
+	+ J'ai juste eu quelques difficultés au début parce que j'avais oublié de `git add` avant de commit et push, ce qui m'a bloqué un peu. J'ai utilisé l'IA pour m'aider avant de remarquer que j'avais oublié cette étape, donc ça m'a causé de recommencer l'exercice.
+	+ A part ça, c'était d'une difficulté gérable, je trouve
+
+## Solutions que je veux faire partager
++ J'aimerais que les feuilles d'exercice soient plus précises. A certains moments, je suis pas sûre de comprendre ce que je suis censé faire et c'est perturbant.
++ Il me semble qu'on n'a pas eu à créer des fichiers où on note nos réponses par rapport aux questions de la feuille ? Je ne suis pas sûre de si c'était juste pour nous faire réfléchir ou pour y répondre, je vais y répondre ici.
+	+ Du coup pour l'exercice sur git :
+		+ Pour trouver l'identifiant de commit d'un changement précédent : `git log`
+		+ Pour retourner à une version précédente : `git revert <SHA_commit>`. D'ailleurs, il n'y a eu qu'une seule ligne à ce propos dans le cours, donc je voulais un peu m'acharner avec `git reset`
+		+ Dans 3.b., j'ai pas bien compris de quelles méthodes on parle. Est-ce que c'est à propos de `git revert` et copier le contenu de oups.md dans journal.md ? Mais ça a des objectifs différents ?
+		+ Pour voir si on est à jour : `git fetch` et `git status` parce je vois jamais rien avec `git fetch`.
+		+ Je tente de récupérer avec `git pull`, ça marche pas à cause d'un conflit du coup.
+		+ Pour garder les changements local : `git stash push -m "Conservation des changements séance 3"`
+		+ Pour voir les listes : `git stash list`
+		+ Pour les appliquer : `git stash apply`, `git stash drop`
+		
+## Questions à discuter
++ N/A
