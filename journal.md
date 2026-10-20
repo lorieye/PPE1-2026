@@ -1,3 +1,9 @@
+Ecrire quelques lignes bidons, je sais pas, je vais juste écrire ce qui me passe dans la tête
+j'aime pas trop nano parce que je trouve pas les manières de sauvegarder très instrinctifs
+peut-être que je devrais tester vim, mais apparemment c'est plus poussé donc ça fait peur
+en tous cas, j'aime bien le format .md vu que je le connais
+même si je le connaissais pas, il est pluôt simple
+
 # PPE1
 
 # ==> 30/09
@@ -21,6 +27,8 @@
 + Il y a un truc par rapport aux images. Je ne sais pas s'il existe une solution pour prendre en compte tous les raccourcis des images, puisqu'il y en a plusieurs, sans compter que la casse compte aussi. Ou bien d'utiliser << mv >> avec plusieurs documents vers un dossier. Je ne l'ai pas testé pour éviter d'être potentiellement bloquée/perturbée.
 + Toujours par rapport aux images, et surtout quand on devait faire les lieux : on avait le lieu << Rome >>. Cependant, on avait aussi des images qui concernait simplement Roméo de *Roméo et Juliette* dans le nom des documents, la plupart. Je n'ai pas fait attention s'il y avait d'autres Rome\*. C'est problématique étant donné que c'est pas ce qu'on cherche à faire, mais c'est inévitable avec \*Rome\*. Je ne pense pas qu'il existe de solutions pour faire comprendre au terminal de faire la distinction. Ça doit être à nous, utilisateur humain, de correctement renommer les documents si on a besoin de les ordonner plus tard.
 
+
+
 ---
 # ==> 04/10 (pas un jour de TD)
 
@@ -38,3 +46,11 @@
 ## Questions à discuter
 + Plutôt que des questions, je veux surtout partager le fait que les consignes de la feuille d'exercice n'étaient pas assez claires sur certains points. Je pensais que le but du 1.b) était de faire ce qui était demandé en 2.a) (je n'avais pas encore lu la 2.a)), ce qui m'a perturbé puisque les commandes qu'on nous a indiqué d'utiliser, je n'arrivais pas à visualiser comment faire). (Pourtant en 2.a), c'est plus ou moins le but, et c'était pas si complexe que ça).
 + S'il y avait une petite précision de réarranger les fichiers par année, de les enlever de leur sous-dossiers (mois), je pense que j'aurais tilté plus vite. Mes erreurs principales durant cet exercice furent ma maladresse.
+
+
+
+---
+# Séance 3
+
+## exercices git
+Cette ligne doit rester après correction
