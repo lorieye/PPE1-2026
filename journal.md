@@ -80,3 +80,31 @@ je vais mettre cette ligne de côté
 		
 ## Questions à discuter
 + N/A
+
+
+
+---
+# ==> 21/10
+
+## Ce que j'ai fait
++ J'ai fait l'exercice avec le script bash.
+	+ J'avais du mal à commencer vu qu'on n'avait pas vraiment vu cette partie en cours. Je savais pas trop comment m'y prendre après l'exercice sur git more. La permanence de ce jour m'a aidé à comprendre comment utiliser les variables et comment rédiger mes scripts, tout simplement.
+	+ Certaines questions n'étaient pas très clairs, j'ai sauté.
+	+ J'ai commit après chaque script par contre, donc mon tag doit pas correspondre à tous les scripts de l'exercice que j'ai fait.
+
+## Solutions que je veux faire partager
++ Je vais essayer de répondre à ce que fait le script bash de la dernière diapo du cours :
+	+ Si le programme a moins d'1 argument, alors écrire "ce programme demande un argument", fin.
+	+ Ensuite, on a un argument FICHIERS_URLS et deux variables : OK et NOK qui valent 0.
+		+ Tant que le programme tourne :
+			+ Si la ligne commence par https:\//, écrire "la ligne : #de ligne" ressemble à une URL valide" et OK=+1
+			+ Sinon, "la ligne : #de ligne ne ressemble pas à une URL valide" et NOK=+1
+		+ Et quand ça se termine, ça donne le nombre d'URLs qui est sotcké dans la variable OK et le nombre qui ne sont pas des URLs stocké dans NOK.
+-> C'est un programme pour savoir le nombre d'URLs de fichiers qui valides et invalides.
+
+## Questions à discuter
++ N/A
+
+
+
+---
